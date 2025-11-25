@@ -1,0 +1,30 @@
+,TextColumn
+1,"<Action>Move</>:  <img id=""WKey"" height=""40""/><img id=""AKey"" height=""40""/><img id=""SKey"" height=""40""/><img id=""Dkey"" height=""40""/> <input>keys</> or <img id=""LStick"" height=""40""/><input> Stick</>
+
+
+<Action>Aim</>: rotating <input>Mouse</> or  <img id=""Rstick"" height=""40""/><input> Stick</>"
+2,"Whenever you've got a clear line of sight to an <Danger>Enemy</> their health bar will become visible
+
+You can <Action>shoot</>  with <img id=""LMouse"" height=""40""/> or with <img id=""LT"" height=""40""/>
+
+
+<Action>Reload</> using  <img id=""RBtn"" height=""40""/>  or  <img id=""YBtn"" height=""40""/>"
+3,"<Action>Movement speed</> will noticeably decrease while <Action>shooting</>, but in return, your <Action>accuracy</> will greatly improve when you take a stand and <Action>fire your weapon while standing still</>"
+4,"<Action>Dash</>: <img id=""RMouse"" height=""40""/> or  <img id=""ABtn"" height=""40""/> 
+
+<Action>Dash</> action consumes <Energy>Energy</>
+
+<Energy>Energy</> restores slowly with time"
+5,"When your <Rage>Rage bar</> reaches its maximum capacity, you'll unlock the devastating ability to perform a <Action>Rage attack</> with  <img id=""QBtn"" height=""40""/>  or  <img id=""RB"" height=""40""/>"
+6,Almost every <Danger>Enemy</> can be <Action>stunned</> when their remaining <Health>health</> reaches a certain threshold.
+7,"<Action>Defeating</> an <Danger>Enemy</> rewards you with <Points>Points</>, adds to your <Rage>Rage gauge</>, and provides a chance to receive valuable <Item>items</> as drops.
+There are 4 types of <Item>items</>
+
+Heart restores <Health>Health</>
+Blue lightning restores <Energy>Energy</>
+Yellow diamond gives <Points>Points</>
+The Yellow shield gives the character the <Shield>Shielded state</>"
+8,"As each <Danger>enemy wave</> reaches its conclusion, a <Item>chest</> will appear near your character. To unlock its contents, you must <Action>aim and shoot</> at the chest."
+9,"Your final <Points>score</> takes into account the <Points>points</> you've earned during gameplay, but will be <Action>reduced</> by a factor related to the <Action>time elapsed</> in the game, multiplied by two.
+
+This means that <Action>speed</> in eliminating <Danger>enemies</> is akin to earning extra <Points>points</>."
